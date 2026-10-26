@@ -1,0 +1,6 @@
+{
+  "name": "Bé Vui Học Toán 2 - Trò Chơi Luyện Toán Lớp 2",
+  "description": "Ứng dụng luyện toán lớp 2 tương tác qua trò chơi vui nhộn: phép cộng trừ có nhớ trong phạm vi 100, bảng nhân 2 và 5, so sánh số 1000, xem đồng hồ và đo độ dài.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
